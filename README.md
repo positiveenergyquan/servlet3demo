@@ -223,5 +223,11 @@ public class RegistrationByListener implements ServletContextListener {
 
 #### 3种混合使用的时候，3种配置的初始化的顺序，和执行顺序
 ![Alt text](https://github.com/positiveenergyquan/servlet3demo/tree/master/servlet3-web/src/main/resources/inti.png) 
+
 		初始化顺序为：
+		监听器：XML配置，Fragment配置（可以配置Fragment之间的顺序），声明（说的是可以通过命名调节，但是试过，无规律），动态注册（可以通过配置，配置到XML之前）。
+		过滤器：未发现规律。
+		
+		执行顺序：
+		过滤器：XML配置（内部，可以通过先后顺序调节执行顺序），Fragment配置（可以配置Fragment之间的顺序），声明（说的是可以通过命名调节，但是试过，无规律），动态注册（可以通过配置，配置到XML之前）
 		
