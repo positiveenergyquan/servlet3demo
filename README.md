@@ -222,5 +222,5 @@ public class RegistrationByListener implements ServletContextListener {
 ```
 
 #### 3种混合使用的时候，3种配置的初始化的顺序，和执行顺序
-![image](https://github.com/positiveenergyquan/servlet3demo/tree/master/servlet3-web/src/main/resources/inti.png) 
+![](https://github.com/positiveenergyquan/servlet3demo/tree/master/servlet3-web/src/main/resources/inti.png) 
  
