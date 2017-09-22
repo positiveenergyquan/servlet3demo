@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/serlvet3-fragment1/serlvet3-fragment1.iml" filepath="$PROJECT_DIR$/serlvet3-fragment1/serlvet3-fragment1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serlvet3-fragment2/serlvet3-fragment2.iml" filepath="$PROJECT_DIR$/serlvet3-fragment2/serlvet3-fragment2.iml" />
       <module fileurl="file://$PROJECT_DIR$/serlvet3-xml/serlvet3-xml.iml" filepath="$PROJECT_DIR$/serlvet3-xml/serlvet3-xml.iml" />
       <module fileurl="file://$PROJECT_DIR$/servlet3-annotation/servlet3-annotation.iml" filepath="$PROJECT_DIR$/servlet3-annotation/servlet3-annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/servlet3-registration/servlet3-registration.iml" filepath="$PROJECT_DIR$/servlet3-registration/servlet3-registration.iml" />

@@ -16,6 +16,12 @@
           <element id="archive" name="servlet3registration-1.0-SNAPSHOT.jar">
             <element id="module-output" name="servlet3-registration" />
           </element>
+          <element id="archive" name="serlvet3fragment1-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="serlvet3-fragment1" />
+          </element>
+          <element id="archive" name="serlvet3fragment2-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="serlvet3-fragment2" />
+          </element>
           <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.0.0.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-beans:4.0.0.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-context:4.0.0.RELEASE" />

@@ -12,6 +12,8 @@
         <module>serlvet3-xml</module>
         <module>servlet3-annotation</module>
         <module>servlet3-registration</module>
+        <module>serlvet3-fragment1</module>
+        <module>serlvet3-fragment2</module>
     </modules>
 
     <packaging>pom</packaging>

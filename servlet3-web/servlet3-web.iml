@@ -28,6 +28,8 @@
     <orderEntry type="module" module-name="serlvet3-xml" />
     <orderEntry type="module" module-name="servlet3-annotation" />
     <orderEntry type="module" module-name="servlet3-registration" />
+    <orderEntry type="module" module-name="serlvet3-fragment1" />
+    <orderEntry type="module" module-name="serlvet3-fragment2" />
     <orderEntry type="library" name="Maven: org.springframework:spring-webmvc:4.0.0.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-beans:4.0.0.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-context:4.0.0.RELEASE" level="project" />
