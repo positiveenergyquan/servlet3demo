@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="serlvet3-xml" />
+        <module name="servlet3-annotation" />
+        <module name="servlet3-registration" />
+        <module name="servlet3-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="serlvet3-xml" target="1.7" />
+      <module name="servlet-xml" target="1.7" />
+      <module name="servlet3-annotation" target="1.7" />
+      <module name="servlet3-registration" target="1.7" />
+      <module name="servlet3-web" target="1.7" />
+      <module name="servlet3demo" target="1.7" />
+      <module name="servletbyxml" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
