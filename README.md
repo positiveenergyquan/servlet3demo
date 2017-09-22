@@ -190,7 +190,7 @@ public class RegistrationByListener implements ServletContextListener {
 	
 	<listener>
 		<listener-class>com.servlet3.demo.Listener.ListenerByFragment2</listener-class>
-	</listener>
+	</listener>https://github.com/positiveenergyquan/servlet3demo
 </web-fragment>
 ```
 
@@ -220,5 +220,7 @@ public class RegistrationByListener implements ServletContextListener {
 </web-app>
 
 ```
-####3种混合使用的时候，3种配置的初始化的顺序，和执行顺序
+
+#### 3种混合使用的时候，3种配置的初始化的顺序，和执行顺序
+![image](https://github.com/positiveenergyquan/servlet3demo/tree/master/servlet3-web/src/main/resources/inti.png) 
  
