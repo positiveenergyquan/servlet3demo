@@ -6,7 +6,7 @@ import javax.servlet.ServletContextListener;
 public class ListenerByRegistration implements ServletContextListener{
     @Override
     public void contextInitialized(ServletContextEvent sce) {
-        System.out.println("11111111111初始化监听器ListenerByRegistration");
+        System.out.println("初始化监听器ListenerByRegistration");
     }
 
     @Override
