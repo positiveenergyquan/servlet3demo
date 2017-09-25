@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/serlvet3-asyncSupported/serlvet3-asyncSupported.iml" filepath="$PROJECT_DIR$/serlvet3-asyncSupported/serlvet3-asyncSupported.iml" />
       <module fileurl="file://$PROJECT_DIR$/serlvet3-fragment1/serlvet3-fragment1.iml" filepath="$PROJECT_DIR$/serlvet3-fragment1/serlvet3-fragment1.iml" />
       <module fileurl="file://$PROJECT_DIR$/serlvet3-fragment2/serlvet3-fragment2.iml" filepath="$PROJECT_DIR$/serlvet3-fragment2/serlvet3-fragment2.iml" />
       <module fileurl="file://$PROJECT_DIR$/serlvet3-xml/serlvet3-xml.iml" filepath="$PROJECT_DIR$/serlvet3-xml/serlvet3-xml.iml" />

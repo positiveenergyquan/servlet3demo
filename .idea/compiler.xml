@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="serlvet3-asyncSupported" />
         <module name="serlvet3-fragment1" />
         <module name="serlvet3-fragment2" />
         <module name="serlvet3-xml" />
@@ -15,6 +16,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="serlvet3-asyncSupported" target="1.7" />
       <module name="serlvet3-fragment1" target="1.7" />
       <module name="serlvet3-fragment2" target="1.7" />
       <module name="serlvet3-xml" target="1.7" />
